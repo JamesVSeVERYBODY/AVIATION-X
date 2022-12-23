@@ -1,0 +1,41 @@
+﻿  game.cpp
+C:\Users\cuzt2\OneDrive\Documents\GAME\GAME\GAME\game.cpp(69,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\cuzt2\OneDrive\Documents\GAME\GAME\GAME\game.cpp(69,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\cuzt2\OneDrive\Documents\GAME\GAME\GAME\game.cpp(78,104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\cuzt2\OneDrive\Documents\GAME\GAME\GAME\game.cpp(78,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\cuzt2\OneDrive\Documents\GAME\GAME\GAME\game.cpp(87,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cuzt2\OneDrive\Documents\GAME\GAME\GAME\game.cpp(129,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\cuzt2\OneDrive\Documents\GAME\GAME\GAME\game.cpp(169,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 225 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GAME.vcxproj -> C:\Users\cuzt2\OneDrive\Documents\GAME\GAME\x64\Release\GAME.exe
